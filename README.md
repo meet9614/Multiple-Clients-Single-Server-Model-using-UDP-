@@ -1,0 +1,2 @@
+# Multiple-Clients-Single-Server-Model-using-UDP-
+Designed Clients send a number to the server using UDP. The server collects numbers from three unique clients. Server encrypts the sum, decrypts it, and broadcasts it back.Integrated Networking: Python socket (UDP) for communication. Multi-client handling: threading to manage multiple clients.Improved it by adding GUI for input/output using Tkinter
